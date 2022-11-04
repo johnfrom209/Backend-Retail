@@ -4,7 +4,7 @@
   ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
-  - [Usage](#usage)
+  - [Useage](#useage)
   - [Contribute](#contribute)
   - [Test](#test)
   - [Questions](#questions)
