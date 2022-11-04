@@ -30,6 +30,8 @@
     res.status(500).json(err);
   }
   ```
+  You can view the repo here:
+  [Github](https://github.com/johnfrom209/Backend-Retail)
 
   ## Installation
   To run this program you will first need to run "npm install" to get the dependencies. Navigate to yor mysql shell and run "source schema.sql". After that go back to your text editor and run "npm run seed". This will populate the db with seeds. Lastly, you will have to run "node server.js" while inside root folder. That is all.
